@@ -1,0 +1,19 @@
+0. BMP: 32 bit color, or over 4 billion, GIF: 8 bits, 256 colors, JPEG: 24 bit, 16 million, PNG: 24 bit, 16 million 
+1. GIF 
+2. With lossless compression, every single bit of data that was originally in the file remains after the file is uncompressed, but with lossy compression the file is reduced by permanently eliminating certain information, especially redundant information  
+3. JPEG 
+4. FAT stands for File Allocation Table so when a file is deleted, only the information in the address table is erased, when the file itself remains on the drive 
+5. Delete the files on the disk using a secure deletion option. That replaces the section on disc with all zeroes 
+6. The <stdint.h> header shall declare sets of integer types having specified widths (and more but this is in our interest)
+7. These are fixed length datatypes so they are essential for the occations of programs reading and writing structures
+8. BYTE: 1 byte, WORD: 2 bytes, DWORD, LONG 4 bytes
+9. BM
+10. bfSize specifies the size of a whole bitmap file where biSize specifies only the size of a BITMAPINFOHEADER structure
+11. That a bmp file has its rows stored in top-down order
+12. biBitCount
+13. It might be a permitions problem
+14. TODO
+15. 3 bytes of padding
+16. fseek() sets the file position of the stream to the given offset.
+17. The current position of the file pointer
+18. Someone from CS50s staff but I cannot understand who :)
