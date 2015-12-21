@@ -1,0 +1,11 @@
+0. Pneumonoultramicroscopicsilicovolcanoconiosis is an English word that refers to a lung disease that is otherwise known as silicosis. It is the longest word in the English language published in a dictionary, the Oxford English Dictionary
+1. getrusage() returns resource usage measures for who parameter.
+2. 16
+3. C requires passing structs by reference in functions, because by value, the size would be too big
+4. Speller programm reads words from files, char by char, using the for loop for the first char of the file increasing by one until the end of the file. If the char is letter or apostrophe, it is added to a word and if the word becomes larger than what we have defined as the largest word possible, the word is ignored. If the char has a digit, it is ignored as well. Finally, If a word still exists, it is counted, checked for spelling, and printed and the amount of time it takes to complete the checking is logged in ti_check
+5. TODO
+6. Because we have declared LENGTH and DICTIONARY as constants 
+7. In order to load my dictionary, I used a a hashtable where each entry is a header node pointing to the next node of the linked list.
+8. TODO
+9. TODO 
+10. TODO
