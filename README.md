@@ -17,6 +17,5 @@ Gradebook (All psets are graded on a scale from 0.0 to 1.0):
 
 Files not included:
 
-   -Problem Set 6\public\cat.jpg (http://i.imgur.com/wY6XjfU.jpg)
-   
-   -Problem Set 8\public\img\ajax-loader.gif (http://i.imgur.com/MsVzAr3.gif)
+    -Problem Set 6\public\cat.jpg (http://i.imgur.com/wY6XjfU.jpg)
+    -Problem Set 8\public\img\ajax-loader.gif (http://i.imgur.com/MsVzAr3.gif)
