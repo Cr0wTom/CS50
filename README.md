@@ -13,9 +13,3 @@ Gradebook (All psets are graded on a scale from 0.0 to 1.0):
     Problem Set 7 : 1
     Problem Set 8 : 1
     Final Project :
-
-
-Files not included:
-
-    -Problem Set 6\public\cat.jpg (http://i.imgur.com/wY6XjfU.jpg)
-    -Problem Set 8\public\img\ajax-loader.gif (http://i.imgur.com/MsVzAr3.gif)
