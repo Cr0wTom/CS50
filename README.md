@@ -12,4 +12,4 @@ Gradebook (All psets are graded on a scale from 0.0 to 1.0):
     Problem Set 6 : 1
     Problem Set 7 : 1
     Problem Set 8 : 1
-    Final Project :
+    Final Project : 1
